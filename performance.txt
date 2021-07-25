@@ -1,0 +1,314 @@
+
+---------------------------------------------
+blocks_1.pt
+Using CUDA
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\susha\anaconda3\lib\site-packages\torch\nn\modules\lazy.py:175: Userules are a new feature under heavy development so changes to the API or functen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '
+Epoch: 01 | Epoch Time: 0m 13s
+        Train Loss: 2.288 | Train Acc: 14.99%
+         Val. Loss: 2.159 |  Val. Acc: 21.38%
+Epoch: 02 | Epoch Time: 0m 9s
+        Train Loss: 2.208 | Train Acc: 17.55%
+         Val. Loss: 2.099 |  Val. Acc: 22.80%
+Epoch: 03 | Epoch Time: 0m 9s
+        Train Loss: 2.200 | Train Acc: 18.02%
+         Val. Loss: 2.069 |  Val. Acc: 22.53%
+Epoch: 04 | Epoch Time: 0m 11s
+        Train Loss: 2.196 | Train Acc: 18.52%
+         Val. Loss: 2.069 |  Val. Acc: 22.64%
+Epoch: 05 | Epoch Time: 0m 12s
+        Train Loss: 2.195 | Train Acc: 18.36%
+         Val. Loss: 2.101 |  Val. Acc: 20.80%
+Epoch: 06 | Epoch Time: 0m 11s
+        Train Loss: 2.205 | Train Acc: 17.96%
+         Val. Loss: 2.061 |  Val. Acc: 22.62%
+Epoch: 07 | Epoch Time: 0m 11s
+        Train Loss: 2.209 | Train Acc: 18.46%
+         Val. Loss: 2.086 |  Val. Acc: 21.94%
+Epoch: 08 | Epoch Time: 0m 11s
+        Train Loss: 2.194 | Train Acc: 18.58%
+         Val. Loss: 2.052 |  Val. Acc: 22.08%
+Epoch: 09 | Epoch Time: 0m 12s
+        Train Loss: 2.178 | Train Acc: 19.68%
+%
+         Val. Loss: 2.045 |  Val. Acc: 24.32%
+Epoch: 12 | Epoch Time: 0m 13s
+        Train Loss: 2.185 | Train Acc: 19.23%
+         Val. Loss: 2.068 |  Val. Acc: 24.36%
+Epoch: 13 | Epoch Time: 0m 13s
+        Train Loss: 2.182 | Train Acc: 19.48%
+         Val. Loss: 2.034 |  Val. Acc: 26.80%
+Epoch: 14 | Epoch Time: 0m 14s
+        Train Loss: 2.175 | Train Acc: 19.66%
+         Val. Loss: 2.071 |  Val. Acc: 25.07%
+Epoch: 15 | Epoch Time: 0m 14s
+        Train Loss: 2.179 | Train Acc: 19.52%
+         Val. Loss: 2.161 |  Val. Acc: 27.02%
+Epoch: 16 | Epoch Time: 0m 14s
+        Train Loss: 2.177 | Train Acc: 19.50%
+         Val. Loss: 2.025 |  Val. Acc: 28.26%
+%
+Epoch: 19 | Epoch Time: 0m 7s
+        Train Loss: 2.175 | Train Acc: 19.85%
+         Val. Loss: 2.052 |  Val. Acc: 24.94%
+Epoch: 20 | Epoch Time: 0m 8s
+        Train Loss: 2.174 | Train Acc: 19.95%
+         Val. Loss: 2.048 |  Val. Acc: 23.09%
+Test Loss: 2.047 | Test Acc: 23.12%
+
+---------------------------------------------
+blocks_2.pt
+Using CUDA
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\susha\anaconda3\lib\site-packages\torch\nn\modules\lazy.py:175: UserWarning: Lazy modules are a new feature under heavy development so changes to the API or functionality can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '    
+Epoch: 01 | Epoch Time: 0m 14s
+        Train Loss: 2.270 | Train Acc: 14.80%
+         Val. Loss: 2.125 |  Val. Acc: 21.81%
+Epoch: 02 | Epoch Time: 0m 11s
+        Train Loss: 2.217 | Train Acc: 17.49%
+         Val. Loss: 2.094 |  Val. Acc: 19.64%
+Epoch: 03 | Epoch Time: 0m 11s
+        Train Loss: 2.191 | Train Acc: 18.67%
+         Val. Loss: 2.086 |  Val. Acc: 23.72%
+Epoch: 04 | Epoch Time: 0m 11s
+        Train Loss: 2.202 | Train Acc: 18.41%
+         Val. Loss: 2.087 |  Val. Acc: 23.90%
+Epoch: 05 | Epoch Time: 0m 12s
+        Train Loss: 2.192 | Train Acc: 18.95%
+%
+         Val. Loss: 2.052 |  Val. Acc: 23.34%
+Epoch: 08 | Epoch Time: 0m 13s
+        Train Loss: 2.189 | Train Acc: 18.92%
+         Val. Loss: 2.068 |  Val. Acc: 22.80%
+Epoch: 09 | Epoch Time: 0m 13s
+        Train Loss: 2.192 | Train Acc: 19.13%
+         Val. Loss: 2.040 |  Val. Acc: 23.87%
+Epoch: 10 | Epoch Time: 0m 14s
+        Train Loss: 2.183 | Train Acc: 19.35%
+         Val. Loss: 2.088 |  Val. Acc: 23.66%
+Epoch: 11 | Epoch Time: 0m 14s
+        Train Loss: 2.183 | Train Acc: 19.44%
+         Val. Loss: 2.106 |  Val. Acc: 24.37%
+Epoch: 12 | Epoch Time: 0m 14s
+        Train Loss: 2.190 | Train Acc: 19.12%
+         Val. Loss: 2.053 |  Val. Acc: 26.15%
+Epoch: 13 | Epoch Time: 0m 12s
+        Train Loss: 2.187 | Train Acc: 19.35%
+         Val. Loss: 2.036 |  Val. Acc: 25.03%
+Epoch: 14 | Epoch Time: 0m 8s
+        Train Loss: 2.182 | Train Acc: 19.54%
+         Val. Loss: 2.054 |  Val. Acc: 25.11%
+Epoch: 15 | Epoch Time: 0m 8s
+        Train Loss: 2.190 | Train Acc: 19.30%
+         Val. Loss: 2.037 |  Val. Acc: 26.47%
+Epoch: 16 | Epoch Time: 0m 7s
+        Train Loss: 2.173 | Train Acc: 19.69%
+         Val. Loss: 2.029 |  Val. Acc: 24.33%
+%
+Epoch: 19 | Epoch Time: 0m 7s
+        Train Loss: 2.181 | Train Acc: 19.60%
+         Val. Loss: 2.009 |  Val. Acc: 27.78%
+Epoch: 20 | Epoch Time: 0m 8s
+        Train Loss: 2.177 | Train Acc: 19.87%
+         Val. Loss: 2.028 |  Val. Acc: 24.73%
+Test Loss: 2.029 | Test Acc: 24.58%
+---------------------------------------------
+blocks_3.pt
+Using CUDA
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\susha\anaconda3\lib\site-packages\torch\nn\modules\lazy.py:175: UserWarning: Lazy modules are a new feature under heavy development so changes to the API or functionality can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '    
+Epoch: 01 | Epoch Time: 0m 14s
+        Train Loss: 2.285 | Train Acc: 14.83%
+%
+         Val. Loss: 2.087 |  Val. Acc: 22.78%
+Epoch: 04 | Epoch Time: 0m 13s
+        Train Loss: 2.199 | Train Acc: 18.31%
+         Val. Loss: 2.072 |  Val. Acc: 22.63%
+Epoch: 05 | Epoch Time: 0m 13s
+        Train Loss: 2.199 | Train Acc: 18.64%
+         Val. Loss: 2.086 |  Val. Acc: 23.04%
+Epoch: 06 | Epoch Time: 0m 14s
+        Train Loss: 2.186 | Train Acc: 18.63%
+         Val. Loss: 2.088 |  Val. Acc: 23.97%
+Epoch: 07 | Epoch Time: 0m 14s
+        Train Loss: 2.200 | Train Acc: 18.71%
+         Val. Loss: 2.061 |  Val. Acc: 24.61%
+Epoch: 08 | Epoch Time: 0m 14s
+        Train Loss: 2.194 | Train Acc: 18.71%
+         Val. Loss: 2.093 |  Val. Acc: 20.46%
+Epoch: 09 | Epoch Time: 0m 8s
+        Train Loss: 2.182 | Train Acc: 18.94%
+         Val. Loss: 2.069 |  Val. Acc: 22.07%
+Epoch: 10 | Epoch Time: 0m 9s
+        Train Loss: 2.186 | Train Acc: 18.83%
+         Val. Loss: 2.084 |  Val. Acc: 20.82%
+Epoch: 11 | Epoch Time: 0m 7s
+        Train Loss: 2.199 | Train Acc: 18.74%
+         Val. Loss: 2.074 |  Val. Acc: 23.04%
+Epoch: 12 | Epoch Time: 0m 8s
+        Train Loss: 2.177 | Train Acc: 19.60%
+         Val. Loss: 2.027 |  Val. Acc: 26.03%
+Epoch: 13 | Epoch Time: 0m 7s
+        Train Loss: 2.175 | Train Acc: 19.62%
+         Val. Loss: 2.075 |  Val. Acc: 25.37%
+Epoch: 14 | Epoch Time: 0m 7s
+        Train Loss: 2.196 | Train Acc: 19.07%
+         Val. Loss: 2.060 |  Val. Acc: 25.94%
+Epoch: 15 | Epoch Time: 0m 8s
+        Train Loss: 2.179 | Train Acc: 19.50%
+         Val. Loss: 2.048 |  Val. Acc: 25.21%
+Epoch: 16 | Epoch Time: 0m 7s
+        Train Loss: 2.183 | Train Acc: 19.63%
+         Val. Loss: 2.040 |  Val. Acc: 24.99%
+%
+Epoch: 19 | Epoch Time: 0m 7s
+        Train Loss: 2.189 | Train Acc: 19.39%
+         Val. Loss: 2.037 |  Val. Acc: 23.85%
+Epoch: 20 | Epoch Time: 0m 7s
+        Train Loss: 2.170 | Train Acc: 19.95%
+         Val. Loss: 2.043 |  Val. Acc: 23.72%
+Test Loss: 2.044 | Test Acc: 23.75%
+---------------------------------------------
+blocks_4.pt
+ity can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '    
+Epoch: 01 | Epoch Time: 0m 15s
+        Train Loss: 2.294 | Train Acc: 15.01%
+         Val. Loss: 2.151 |  Val. Acc: 20.95%
+Epoch: 02 | Epoch Time: 0m 13s
+        Train Loss: 2.216 | Train Acc: 17.46%
+         Val. Loss: 2.091 |  Val. Acc: 23.73%
+Epoch: 03 | Epoch Time: 0m 14s
+        Train Loss: 2.196 | Train Acc: 18.51%
+         Val. Loss: 2.074 |  Val. Acc: 22.88%
+Epoch: 04 | Epoch Time: 0m 14s
+        Train Loss: 2.193 | Train Acc: 18.38%
+         Val. Loss: 2.068 |  Val. Acc: 23.08%
+Epoch: 05 | Epoch Time: 0m 14s
+        Train Loss: 2.204 | Train Acc: 18.52%
+         Val. Loss: 2.084 |  Val. Acc: 22.35%
+Epoch: 06 | Epoch Time: 0m 12s
+        Train Loss: 2.198 | Train Acc: 18.43%
+         Val. Loss: 2.048 |  Val. Acc: 27.76%
+Epoch: 07 | Epoch Time: 0m 8s
+        Train Loss: 2.187 | Train Acc: 18.81%
+         Val. Loss: 2.069 |  Val. Acc: 22.80%
+Epoch: 08 | Epoch Time: 0m 8s
+        Train Loss: 2.198 | Train Acc: 18.63%
+         Val. Loss: 2.072 |  Val. Acc: 21.48%
+Epoch: 09 | Epoch Time: 0m 8s
+        Train Loss: 2.184 | Train Acc: 19.12%
+         Val. Loss: 2.054 |  Val. Acc: 26.69%
+Epoch: 10 | Epoch Time: 0m 8s
+        Train Loss: 2.191 | Train Acc: 18.92%
+         Val. Loss: 2.056 |  Val. Acc: 25.22%
+Epoch: 11 | Epoch Time: 0m 7s
+        Train Loss: 2.188 | Train Acc: 19.39%
+         Val. Loss: 2.057 |  Val. Acc: 21.90%
+Epoch: 12 | Epoch Time: 0m 7s
+        Train Loss: 2.190 | Train Acc: 19.36%
+         Val. Loss: 2.049 |  Val. Acc: 22.19%
+Epoch: 13 | Epoch Time: 0m 8s
+        Train Loss: 2.183 | Train Acc: 19.27%
+         Val. Loss: 2.056 |  Val. Acc: 25.95%
+Epoch: 14 | Epoch Time: 0m 7s
+        Train Loss: 2.179 | Train Acc: 19.60%
+         Val. Loss: 2.031 |  Val. Acc: 26.10%
+Epoch: 15 | Epoch Time: 0m 7s
+        Train Loss: 2.183 | Train Acc: 19.69%
+         Val. Loss: 2.036 |  Val. Acc: 26.32%
+Epoch: 16 | Epoch Time: 0m 7s
+        Train Loss: 2.179 | Train Acc: 19.78%
+         Val. Loss: 2.052 |  Val. Acc: 22.24%
+%
+Epoch: 19 | Epoch Time: 0m 6s
+        Train Loss: 2.179 | Train Acc: 19.36%
+         Val. Loss: 2.051 |  Val. Acc: 24.50%
+Epoch: 20 | Epoch Time: 0m 6s
+        Train Loss: 2.173 | Train Acc: 19.87%
+         Val. Loss: 2.027 |  Val. Acc: 24.51%
+Test Loss: 2.029 | Test Acc: 24.42%
+---------------------------------------------
+blocks_5.pt
+Using CUDA
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\susha\anaconda3\lib\site-packages\torch\nn\modules\lazy.py:175: UserWarning: Lazy modules are a new feature under heavy development so changes to the API or functionality can happen at any moment.
+  warnings.warn('Lazy modules are a new feature under heavy development '    
+Epoch: 01 | Epoch Time: 0m 18s
+        Train Loss: 2.262 | Train Acc: 15.16%
+         Val. Loss: 2.113 |  Val. Acc: 21.34%
+Epoch: 02 | Epoch Time: 0m 10s
+        Train Loss: 2.212 | Train Acc: 17.64%
+         Val. Loss: 2.108 |  Val. Acc: 21.65%
+Epoch: 03 | Epoch Time: 0m 9s
+        Train Loss: 2.202 | Train Acc: 18.51%
+         Val. Loss: 2.077 |  Val. Acc: 22.40%
+Epoch: 04 | Epoch Time: 0m 8s
+        Train Loss: 2.205 | Train Acc: 18.31%
+         Val. Loss: 2.076 |  Val. Acc: 22.53%
+Epoch: 05 | Epoch Time: 0m 7s
+        Train Loss: 2.191 | Train Acc: 18.64%
+         Val. Loss: 2.061 |  Val. Acc: 25.50%
+Epoch: 06 | Epoch Time: 0m 7s
+        Train Loss: 2.198 | Train Acc: 18.80%
+         Val. Loss: 2.057 |  Val. Acc: 24.41%
+Epoch: 07 | Epoch Time: 0m 7s
+        Train Loss: 2.185 | Train Acc: 19.01%
+         Val. Loss: 2.072 |  Val. Acc: 23.26%
+Epoch: 08 | Epoch Time: 0m 7s
+        Train Loss: 2.191 | Train Acc: 19.11%
+         Val. Loss: 2.093 |  Val. Acc: 20.21%
+Epoch: 09 | Epoch Time: 0m 8s
+        Train Loss: 2.186 | Train Acc: 19.58%
+         Val. Loss: 2.057 |  Val. Acc: 25.28%
+Epoch: 10 | Epoch Time: 0m 7s
+        Train Loss: 2.179 | Train Acc: 19.41%
+         Val. Loss: 2.062 |  Val. Acc: 24.07%
+Epoch: 11 | Epoch Time: 0m 7s
+        Train Loss: 2.186 | Train Acc: 18.80%
+         Val. Loss: 2.046 |  Val. Acc: 26.18%
+Epoch: 12 | Epoch Time: 0m 7s
+        Train Loss: 2.176 | Train Acc: 19.52%
+         Val. Loss: 2.042 |  Val. Acc: 22.81%
+Epoch: 13 | Epoch Time: 0m 7s
+        Train Loss: 2.181 | Train Acc: 19.58%
+         Val. Loss: 2.070 |  Val. Acc: 21.91%
+Epoch: 14 | Epoch Time: 0m 6s
+        Train Loss: 2.178 | Train Acc: 19.86%
+%                                           %
+         Val. Loss: 2.031 |  Val. Acc: 26.52%                                           %
+Epoch: 17 | Epoch Time: 0m 6s               %
+        Train Loss: 2.180 | Train Acc: 19.61%                                           %
+         Val. Loss: 2.112 |  Val. Acc: 22.58%%
+Epoch: 18 | Epoch Time: 0m 6s               %
+        Train Loss: 2.179 | Train Acc: 20.10%%
+         Val. Loss: 2.034 |  Val. Acc: 24.38%%
+Epoch: 19 | Epoch Time: 0m 6s
+        Train Loss: 2.166 | Train Acc: 20.26%
+         Val. Loss: 2.065 |  Val. Acc: 22.50%
+Epoch: 20 | Epoch Time: 0m 6s
+        Train Loss: 2.165 | Train Acc: 20.05%
+         Val. Loss: 2.036 |  Val. Acc: 27.75%
+Test Loss: 2.037 | Test Acc: 27.72%
+---------------------------------------------
+MODIFIED TO NO MAX POOLING:
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
